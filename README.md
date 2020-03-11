@@ -20,6 +20,10 @@ Name: Alex Rigl
    
    References:
    - Fork script from BlackBoard
+   - https://stackoverflow.com/questions/21558937/i-do-not-understand-how-execlp-works-in-linux
+   - https://www.geeksforgeeks.org/use-fflushstdin-c/
+   - https://www.programiz.com/c-programming/library-function/string.h/strcmp
+   - https://www.geeksforgeeks.org/strings-in-c-2/
    
    Worked with:
    - Tristan Chilvers
